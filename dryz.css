@@ -1,0 +1,106 @@
+body {
+    background: linear-gradient(to bottom, #ffffff, #8a2be2);
+    height: 5900px;
+    margin: 0;
+  }
+h1 {
+    font-family: 'Arial', sans-serif;
+    color: #8a2be2;
+    text-align: center;
+    font-size: 60px;
+}
+.ph1{
+    width: 500px;
+    height: 600px;
+    border: 8px solid white;
+    padding: 4px;
+    
+}
+.ph2{
+    width: 500px;
+    height: 600px;
+    border: 8px solid white;
+    padding: 4px;
+}
+.ph3{
+    width: 500px;
+    height: 600px;
+    border: 8px solid white;
+    padding: 4px;
+}
+.ph4{
+    width: 500px;
+    height: 600px;
+    border: 8px solid white;
+    padding: 4px;
+}
+.ph5{
+    width: 500px;
+    height: 600px;
+    border: 8px solid white;
+    padding: 4px;
+}
+.ph6{
+    width: 500px;
+    height: 600px;
+    border: 8px solid white;
+    padding: 4px;
+}
+main{
+    color: #943ce5;
+    font-size: 35px;
+    text-align: center;
+}
+.ph1:hover{
+    content: url('ph1-1.jpg');
+}
+.ph2:hover{
+    content: url('ph2-1.jpg');
+}
+.ph3:hover{
+    content: url('ph3-1.jpg');
+}
+.ph4:hover{
+    content: url('ph4-1.jpg');
+}
+.ph5:hover{
+    content: url('ph5-1.jpg');
+}
+.ph6:hover{
+    content: url('ph6-1.jpg');
+}
+.st{
+    color: #f0e0ff;
+}
+.oda{
+    color: #f0e0ff;
+}  
+.ph8{
+    width: 300px;
+    height: 400px;
+
+}
+.ph9{
+    width: 300px;
+    height: 400px;
+
+}
+.ph10{
+    width: 300px;
+    height: 400px;
+
+}
+.ph11{
+    width: 400px;
+    height: 300px;
+
+}
+.ph12{
+    width: 350px;
+    height: 350px;
+
+}
+footer{
+    text-align: center;
+}
+
